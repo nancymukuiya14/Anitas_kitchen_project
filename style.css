@@ -42,3 +42,9 @@ a:hover {
 #customerspics {
     margin-left: 180px;
 }
+#subscribe {
+    background-image:url('./Assets/subscribe.jpg');
+    height: 100px;
+    color: white;
+    padding: 170px;
+}
