@@ -1,0 +1,21 @@
+#chicken {
+    color: white;
+    padding: 10px;
+}
+#pizza {
+    color: white;
+    padding: 10px;
+}
+#beef {
+    color: white;
+    padding: 10px;
+}
+#foodtype {
+    background-color: white;
+
+}
+#table {
+    background-color: lightslategray;
+    display: flex;
+    
+}
