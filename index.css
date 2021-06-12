@@ -103,10 +103,25 @@ justify-content: center;
 
 }
 
-#fooditems {
+#bestoffer{
     background-image: url('./Assets/foodsBg.jpg');
+    background-size: cover;
+    margin: 30px;
+    height: 500px;
+    padding: 100px;
+    padding-bottom: 40px;
 
 }
+#container2 {
+    background-color:white;
+    margin:0px 40px 0px 40px;
+    height: 430px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    padding: 20px;
+
+}
+
 
 
 
