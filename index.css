@@ -8,19 +8,18 @@
 }
 nav {
     display:flex;
-    justify-content: space-between;
+    justify-content: stretch;
     list-style: none;
+    
 }
 #happyhour {
-    border: 1px solid black;
-    margin: 0px 5px 0px 5px ;
     padding: 50px;
     background-color:lightgrey;
 }
 #partytime {
     padding: 50px;
-    border:ipx solid;
     background-color: tomato;
+
 }
 #brekfast {
     background-image: url('./Assets/breakfast.jpg');
@@ -33,7 +32,7 @@ background-image: url('./Assets/lunch.jpg');
 color: white;
 padding: 70px;
 background-color:lightgrey;
-opacity: 0.5;
+opacity: 0.4;
 }
 #dinner {
     background-image: url('./Assets/dinner.jpg');
