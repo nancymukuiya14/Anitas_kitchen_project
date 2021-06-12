@@ -31,12 +31,12 @@ a:hover {
     padding-top: 20px;
 }
 #customers {
-    border: 15px darkblue;
+    border: 15px gray;
     border-radius: 2px;
-    box-shadow: 0px 0px 6px darkblue;
+    box-shadow: 0px 0px 6px gray;
     box-sizing: border-box;
-    margin-bottom:30px ;
+    margin-left:200px ;
     padding: 20px;
-    width: 30%;
-    align-items: center;
+    width: 60%;
 }
+#customerspics
