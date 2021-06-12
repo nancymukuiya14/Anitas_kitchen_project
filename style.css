@@ -37,6 +37,8 @@ a:hover {
     box-sizing: border-box;
     margin-left:200px ;
     padding: 20px;
-    width: 60%;
+    width: 50%;
 }
-#customerspics
+#customerspics {
+    margin-left: 180px;
+}
