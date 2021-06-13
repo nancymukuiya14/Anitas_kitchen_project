@@ -13,10 +13,9 @@
 #tablemenu {
     display: flex;
     justify-content: space-between;
-    padding: 10px;
-    background-color: gray;
+    background-color: lightslategrey;
 }
-a{
+a {
     text-decoration: none;
     color :black;
     display:block;
@@ -28,8 +27,8 @@ a:hover {
     color: tomato;
     justify-content: space-between;
     display: flex;
-    margin-top: 20px;
-    padding-top: 20px;
+    background-color: white;
+    width:30px;
 }
 #customers {
     border: 15px gray;
@@ -58,5 +57,29 @@ a:hover {
 #customerspics {
     display: flex;
     justify-content: start;
+    margin-left: 20px;
 }
+#email {
+    background-color:white;
+    opacity: 0.5;
+    width: 30%;
+    height: 30%;
+    color: black;
+}
+#p {
+    background-color: tomato;
+    width: 100%;
+    color: white;
+    padding: 10px;
+}
+#combine {
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    font-size: small;
+    font-family: sans-serif;
+    color: darkblue;
+}
+
 

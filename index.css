@@ -95,6 +95,7 @@ justify-content: center;
     margin-left: 30px;
     display: flex;
     padding:0px;
+    order: 2;
 }
 #martini {
     float: left;
@@ -120,6 +121,12 @@ justify-content: center;
     padding: 20px;
 
 }
+.overflow {
+    color: tomato;
+    padding: 5px;
+    border-color: tomato;
+}
+
 
 
 
