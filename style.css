@@ -8,6 +8,7 @@
     display: flex;
     justify-content: space-between;
     padding: 30px;
+    color: #f15A29;
 }
 #tablemenu {
     display: flex;
@@ -44,7 +45,7 @@ a:hover {
 }
 #subscribe {
     background-image:url('./Assets/subscribe.jpg');
-    height: 100px;
+    height: 40px;
     color: white;
-    padding: 170px;
+    padding: 200px;
 }
