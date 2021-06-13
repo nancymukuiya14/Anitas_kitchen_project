@@ -40,7 +40,7 @@ a:hover {
     column-count: 2;
 }
 #customerspics {
-    margin-left: 180px;
+    margin-left:5px;
 }
 #subscribe {
     background-image:url('./Assets/subscribe.jpg');
@@ -52,9 +52,7 @@ a:hover {
     background-color: #f15A29;
     text-align: center;
     padding:30px;
-}
-#customerspics {
-    display: flex;
+    color: white;
 }
 #email {
     background-color:white;
@@ -74,12 +72,26 @@ a:hover {
     justify-content: space-between;
 }
 p {
-    font-size: small;
+    font-size: smaller;
     font-family: sans-serif;
 }
-
-
 #happycustomer {
     border-right: whitesmoke;
     border-right-style: groove;
+}
+#summary>h5 {font-size: small;
+
+}
+#summary>h6 {
+    font-size: xx-small;
+    padding-top:10px;
+}
+h2,h3,h4 {font-size: small;
+
+}
+#happycustomer>h3 {
+    color: tomato;
+}
+#flexmenu>h3 {
+    color: tomato;
 }
