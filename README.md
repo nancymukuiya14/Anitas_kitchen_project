@@ -16,6 +16,7 @@
 * There is a space to write your email and subscribe so that you can be receiving our daily food items.
 * click on the social media handles to visit our pages and learn more about anitas kitchen.
 # Github link
-https://github.com/nancymukuiya14/Anitas_kitchen_project/tree/gh-pages
+ https://nancymukuiya14.github.io/Anitas_kitchen_project/
+
 # licence
 * copyright @ 2021 moringa school.
