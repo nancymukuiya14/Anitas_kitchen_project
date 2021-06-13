@@ -15,5 +15,7 @@
 * if you want to view more photos of the fast foods and drinks offered click on the view gallery button.
 * There is a space to write your email and subscribe so that you can be receiving our daily food items.
 * click on the social media handles to visit our pages and learn more about anitas kitchen.
+# Github link
+https://github.com/nancymukuiya14/Anitas_kitchen_project/tree/gh-pages
 # licence
 * copyright @ 2021 moringa school.
